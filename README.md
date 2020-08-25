@@ -1,5 +1,6 @@
 # High Performance Tidb hw2
 ## Deployment
+![deployment](https://github.com/TszKitLo40/high-performance-tidb-hw2/blob/master/deployment.png)
 The experiment is conducted with Tencent cloud cvm, the deployment is listed in the following form.
 |component       |hardware                       |number                        
 |----------------|-------------------------------|-----------------------------|
