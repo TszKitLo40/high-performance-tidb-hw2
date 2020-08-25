@@ -13,7 +13,7 @@ I just use the default config of to run the tidb cluster with the tiup tool.
 #### point select
 ![Result](https://github.com/TszKitLo40/high-performance-tidb-hw2/blob/master/sysbench/point_select/sysbench_point_select.png)
 ![qps](https://github.com/TszKitLo40/high-performance-tidb-hw2/blob/master/sysbench/point_select/sysbench_point_select_qps.png)
-![qps](https://github.com/TszKitLo40/high-performance-tidb-hw2/blob/master/sysbench/point_select/sysbench_point_select_qps.png)
+![latency](https://github.com/TszKitLo40/high-performance-tidb-hw2/blob/master/sysbench/point_select/sysbench_latency.png)
 ![cpu](https://github.com/TszKitLo40/high-performance-tidb-hw2/blob/master/sysbench/point_select/tikv_cpu_point_select_sysbench.png)
 ![tikv qps](https://github.com/TszKitLo40/high-performance-tidb-hw2/blob/master/sysbench/point_select/tikv_point_select_qps_sysbench.png)
 ![grpc](https://github.com/TszKitLo40/high-performance-tidb-hw2/blob/master/sysbench/point_select/grpc_point_select.png)
@@ -40,6 +40,6 @@ I just use the default config of to run the tidb cluster with the tiup tool.
 ![tikv](https://github.com/TszKitLo40/high-performance-tidb-hw2/blob/master/ycsb/tikv_qps.png)
 ![grpc](https://github.com/TszKitLo40/high-performance-tidb-hw2/blob/master/ycsb/grpc.png)
 ### tpcc
-![tpcc](https://github.com/TszKitLo40/high-performance-tidb-hw2/tree/master/tpc/tpcc)
+![tpcc](https://github.com/TszKitLo40/high-performance-tidb-hw2/blob/master/tpc/tpcc/tpcc.png)
 ### tpch
 ![tpch](https://github.com/TszKitLo40/high-performance-tidb-hw2/blob/master/tpc/tpch/tpch)
